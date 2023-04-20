@@ -1,0 +1,32 @@
+{
+	"items": [
+		{
+			"name" : "Baking",
+			"color" : "f0a346"
+		},
+		{
+			"name" : "Spices",
+			"color" : "e04626"
+		},
+		{
+			"name" : "Dairy",
+			"color" : "fff5f4"
+		},
+		{
+			"name" : "Meat",
+			"color" : "d15241"
+		},
+		{
+			"name" : "Fish",
+			"color" : "7c84e8"
+		},
+		{
+			"name" : "Tea",
+			"color" : "91b56b"
+		},
+		{
+			"name" : "Cheese",
+			"color" : "ffdc64"
+		}
+	]
+}
