@@ -1,16 +1,1 @@
-# grocery_market
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a one page flutter application. The first widget used is an image carousel which picks up images stored locally. The second section, Categories gets the text data by reading a JSON file stored locally, and the last section, Usually Bought gets both (text & image data) from Firebase Firestore & Firebase Storage.
